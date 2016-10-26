@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     Dialog w;
-    w.setWindowTitle("Temperature Sensor Reading sid");
+    w.setWindowTitle("Temperature Sensor Reading albo nie jego");
     w.setFixedSize(400,112);
     w.show();
 
